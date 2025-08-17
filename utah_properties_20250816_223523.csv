@@ -1,0 +1,411 @@
+mls_id,price,address,beds,baths,sqft,status,agent_name,agent_company,days_on_market,scraped_at
+2105698,"$899,900","11326 S Silver Pond Dr #322 South Jordan, UT",5,4,3510,ACTIVE,Isaac Hanson,S H Realty LC,Listed,2025-08-16T22:27:55.453332
+2105690,"$579,990","6974 W Lake Ave South Jordan, UT",3,2,2152,ACTIVE,Hyrum Brunsdale,Destination Real Estate,Listed,2025-08-16T22:27:56.526258
+2105686,"$1,200,000","10993 S Lake Dr #310 South Jordan, UT",4,3,4350,ACTIVE,John Dowdle,Destination Real Estate,Listed,2025-08-16T22:27:57.589976
+2105671,"$665,000","11607 S Alexandria Dr South Jordan, UT",3,4,2783,ACTIVE,Shari Bringhurst,Live Work Play (Summit),Listed,2025-08-16T22:27:58.649810
+2105601,"$499,990","11267 S Lake Run Rd #130 South Jordan, UT",3,4,1822,ACTIVE,Alysha Johansen,"Weekley Homes, LLC",1,2025-08-16T22:27:59.709701
+2105558,"$925,000","10954 S Paddle Board Way South Jordan, UT",5,4,3316,ACTIVE,Laurel Simmons,Summit Sotheby's International Realty (Salt Lake),1,2025-08-16T22:28:00.777015
+2105467,"$515,000","1589 W Wyngate Dr South Jordan, UT",4,3,2654,ACTIVE,Becky Day,Presidio Real Estate (South Valley),1,2025-08-16T22:28:01.819247
+2105411,"$439,900","10533 S Oquirrh Lake Rd South Jordan, UT",2,3,2040,ACTIVE,L. Noelle Farr,Windermere Real Estate (9th & 9th),1,2025-08-16T22:28:02.877318
+2105399,"$449,000","6439 W South Jordan Pkwy South Jordan, UT",3,3,2064,ACTIVE,Christian Tevis,Black Diamond Realty,1,2025-08-16T22:28:03.941096
+2105350,"$899,999","9982 S Eden View Ct South Jordan, UT",5,4,4219,ACTIVE,Charisse Walker,"EXP Realty, LLC",1,2025-08-16T22:28:05.003167
+2105342,"$399,000","3732 W Angelica Way South Jordan, UT",2,3,1218,ACTIVE,Jennifer Horner,Masters Utah Real Estate,1,2025-08-16T22:28:06.067187
+2105326,"$685,000","1366 W Silk Tree Ct South Jordan, UT",4,3,3248,ACTIVE,Brady Tanner,PRIME RESIDENTIAL BROKERS,2,2025-08-16T22:28:07.126263
+2105309,"$585,000","11582 Inglehart Ln South Jordan, UT",3,2,3126,ACTIVE,Christopher Gerac,"Real Broker, LLC",2,2025-08-16T22:28:08.171027
+2105242,"$529,990","6184 W Franciscotti Dr #603 South Jordan, UT",3,3,1890,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",2,2025-08-16T22:28:09.226394
+2105238,"$615,000","4251 W Lake Bridge Dr South Jordan, UT",6,4,3485,ACTIVE,Traci Gundersen,Action Team Realty,2,2025-08-16T22:28:10.289975
+2105232,"$449,000","11422 S Regalstone Dr South Jordan, UT",3,3,1627,ACTIVE,Robert Betts,Zander Real Estate Team PLLC,2,2025-08-16T22:28:11.352223
+2105213,"$599,990","6176 W Franciscotti Dr #604 South Jordan, UT",2,2,2642,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",2,2025-08-16T22:28:12.409600
+2105211,"$2,299,999","1064 W Park Palisade Dr South Jordan, UT",7,5,7050,ACTIVE,Felipe Pacheco,"Forte Real Estate, LLC",2,2025-08-16T22:28:13.471452
+2105173,"$575,000","10584 S Kestrel Rise Rd South Jordan, UT",3,4,2676,ACTIVE,Paul Coon,P.R.C. Realty,2,2025-08-16T22:28:14.534855
+2105171,"$430,000","6642 W Skip Rock Rd South Jordan, UT",3,3,1445,ACTIVE,Megan Beckstrom,KW South Valley Keller Williams,2,2025-08-16T22:28:15.593416
+2105166,"$413,974","11199 S Rummy Way #319 South Jordan, UT",2,3,1027,ACTIVE,Kalli Seager,Holmes Homes Realty,2,2025-08-16T22:28:16.848898
+2105101,"$640,000","3862 W Belfry Cir South Jordan, UT",3,3,3003,ACTIVE,Samantha McNamara,KW South Valley Keller Williams,2,2025-08-16T22:28:17.908543
+2105088,"$444,990","6769 W South Jordan Pkwy #333 South Jordan, UT",3,2,1525,ACTIVE,Charles Tucker,Destination Real Estate,2,2025-08-16T22:28:18.959555
+2105021,"$655,000","1673 W 9775 S South Jordan, UT",5,2,2731,ACTIVE,Jose Valle,ISellHomesForLess.com,3,2025-08-16T22:28:20.011587
+2104975,"$407,400","5263 W Reventon Rd South Jordan, UT",3,2,1329,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,3,2025-08-16T22:28:21.069574
+2104958,"$417,300","5263 W Reventon Rd South Jordan, UT",3,2,1329,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,3,2025-08-16T22:28:22.126154
+2104951,"$459,900","11653 S Skyward Rd South Jordan, UT",3,3,1607,ACTIVE,Cammie Soper,KW South Valley Keller Williams,3,2025-08-16T22:28:23.171990
+2104927,"$449,333","6893 W South Jordan Pkwy South Jordan, UT",1,3,1251,ACTIVE,Crew Mitchell,Holmes Homes Realty,3,2025-08-16T22:28:24.236338
+2104828,"$411,699","6901 W South Jordan Pkwy #328 South Jordan, UT",2,3,1027,ACTIVE,Crew Mitchell,Holmes Homes Realty,77,2025-08-16T22:28:25.301344
+2104752,"$519,500","10603 S Topview Rd South Jordan, UT",3,3,1718,ACTIVE,Tracey Chhour,KW South Valley Keller Williams,3,2025-08-16T22:28:26.361206
+2104742,"$549,500","11556 S Watercourse Rd #127 South Jordan, UT",3,3,1494,ACTIVE,Charles Bevis,Holmes Homes Realty,36,2025-08-16T22:28:27.415690
+2104736,"$447,000","6891 W South Jordan Pkwy #329 South Jordan, UT",3,2,1251,ACTIVE,Charles Bevis,Holmes Homes Realty,4,2025-08-16T22:28:28.476665
+2104678,"$514,900","7061 W South Jordan Pkwy South Jordan, UT",3,3,2134,ACTIVE,Charles Bevis,Holmes Homes Realty,4,2025-08-16T22:28:29.540583
+2104647,"$1,095,000","2732 W Lizzi Cv South Jordan, UT",5,5,4430,ACTIVE,Bryan Colemere,Colemere Realty Associates LLC,4,2025-08-16T22:28:30.601992
+2104510,"$414,173","6889 W South Jordan Pkwy #330 South Jordan, UT",2,3,1027,ACTIVE,Charles Bevis,Holmes Homes Realty,5,2025-08-16T22:28:31.659432
+2104468,"$540,000","11007 S Kestrel Rise Rd South Jordan, UT",2,3,1725,ACTIVE,Michael Porter,"Porterton Realty, Inc",5,2025-08-16T22:28:32.723345
+2104453,"$599,990","6972 W Lake Ave South Jordan, UT",3,3,2240,ACTIVE,Hyrum Brunsdale,Destination Real Estate,5,2025-08-16T22:28:33.780667
+2104421,"$719,000","11383 S New Bern Way South Jordan, UT",4,4,3106,ACTIVE,Mark Haaga,Found It LLC,5,2025-08-16T22:28:34.827732
+2104408,"$599,000","4563 W Daybreak Pkwy South Jordan, UT",4,4,2634,ACTIVE,Waleska Iglesias,"XA Realty Group, LLC",5,2025-08-16T22:28:35.885087
+2104402,"$629,900","6768 W Docksider Dr #298 South Jordan, UT",5,4,2832,ACTIVE,Douglas Schwartz,AIM Realty,5,2025-08-16T22:28:36.948698
+2104401,"$773,660","11289 S Aqua St #328 South Jordan, UT",3,3,3633,ACTIVE,Kalli Seager,Holmes Homes Realty,5,2025-08-16T22:28:38.016775
+2104343,"$780,000","10366 S 2200 W South Jordan, UT",6,4,3244,ACTIVE,Cheryl Lyon,Coldwell Banker Realty (Union Heights),5,2025-08-16T22:28:39.076065
+2104322,"$399,900","11197 S Rummy Way #320 South Jordan, UT",2,3,1027,ACTIVE,Charles Bevis,Holmes Homes Realty,5,2025-08-16T22:28:40.138509
+2104287,"$689,900","10804 S Haven Landing Dr South Jordan, UT",3,3,3100,ACTIVE,Lisa Willden,Peterson Homes,6,2025-08-16T22:28:41.200658
+2104230,"$474,850","10623 S Cardinal Park Rd #168 South Jordan, UT",4,3,1650,ACTIVE,S H Realty LC,,7,2025-08-16T22:28:42.268188
+2104219,"$474,400","6656 W 11800 S South Jordan, UT",4,4,1868,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,7,2025-08-16T22:28:43.318779
+2104218,"$461,900","6644 W 11800 S South Jordan, UT",3,3,1868,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,7,2025-08-16T22:28:44.373147
+2104193,"$418,900","6877 W South Jordan Pkwy South Jordan, UT",3,3,1300,ACTIVE,Charles Bevis,Holmes Homes Realty,7,2025-08-16T22:28:45.435814
+2104149,"$999,950","11571 S Skyward Rd South Jordan, UT",6,4,5433,ACTIVE,Babs De Lay,"Urban Utah Homes & Estates, LLC",8,2025-08-16T22:28:46.491746
+2104146,"$448,900","10520 S Sage Vista Way South Jordan, UT",3,3,1451,ACTIVE,Sandy Straley,Rindlesbach Homes,8,2025-08-16T22:28:47.551998
+2103994,"$579,990","6604 W Gosling Dr #278 South Jordan, UT",3,3,1690,ACTIVE,Charles Tucker,Destination Real Estate,8,2025-08-16T22:28:50.021634
+2103961,"$450,000","5753 W Lake Ave South Jordan, UT",4,3,2184,ACTIVE,Stephanie Grable,Omada Real Estate,3,2025-08-16T22:28:51.078449
+2103957,"$1,690,000","10299 S 1540 W South Jordan, UT",5,4,5314,ACTIVE,Chad Glover,Howells & Company LLC,8,2025-08-16T22:28:52.139912
+2103865,"$404,000","3792 W Lilac Heights Dr South Jordan, UT",2,3,1586,ACTIVE,Hugh Smith,Smith Real Estate Group,8,2025-08-16T22:28:53.188566
+2103810,"$417,000","11011 S Lake Run Rd South Jordan, UT",2,3,1598,ACTIVE,Brittany Cook,"Real Broker, LLC",9,2025-08-16T22:28:54.249956
+2103779,"$894,000","11428 S Silver Pond Dr #3-175 South Jordan, UT",3,3,3924,ACTIVE,KW South Valley Keller Williams,,9,2025-08-16T22:28:55.309251
+2103744,"$850,000","11271 S Ropemaker Rd #424 South Jordan, UT",4,3,4011,ACTIVE,Clint Goode,Windermere Real Estate,9,2025-08-16T22:28:56.386864
+2103728,"$1,075,000","3153 W Teton Heights Ct South Jordan, UT",4,4,5227,ACTIVE,Stacy Lockhart,KW South Valley Keller Williams,9,2025-08-16T22:28:57.448229
+2103658,"$420,000","1782 W Ikaros Ln South Jordan, UT",3,2,1415,ACCEPTING BACKUP OFFERS,Joilyn Anderson,Align Complete Real Estate Services (900 South),9,2025-08-16T22:28:58.496850
+2103536,"$675,000","10992 S Eureka Dune Dr South Jordan, UT",4,3,3237,ACTIVE,Stacy Lockhart,KW South Valley Keller Williams,9,2025-08-16T22:28:59.553412
+2103524,"$435,000","11184 S Waltana Way #105 South Jordan, UT",2,2,1614,ACTIVE,Kristin Kassing,Niche Homes,9,2025-08-16T22:29:00.609248
+2103521,"$915,000","10858 S Porcini Dr South Jordan, UT",4,4,4332,ACTIVE,Megan Beckstrom,KW South Valley Keller Williams,9,2025-08-16T22:29:01.669433
+2103520,"$2,290,000","10688 S Watery Way South Jordan, UT",6,7,7092,ACTIVE,Alicia Keller,KW WESTFIELD,9,2025-08-16T22:29:02.728339
+2103494,"$950,000","4961 W Topcrest South Jordan, UT",4,5,3605,ACTIVE,Nicole Quealy,KW South Valley Keller Williams,10,2025-08-16T22:29:03.791055
+2103460,"$550,000","11623 S Silver Pond Dr South Jordan, UT",3,3,2820,ACTIVE,Jacob Petersen,"Real Broker, LLC",10,2025-08-16T22:29:04.855018
+2103458,"$507,900","6921 W South Jordan Pkwy South Jordan, UT",3,3,1852,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,10,2025-08-16T22:29:05.916950
+2103453,"$410,000","10577 S Redknife Dr South Jordan, UT",2,3,1250,ACTIVE,Mark Hawes,Salt Realty Inc.,10,2025-08-16T22:29:06.972554
+2103451,"$536,900","6923 W South Jordan Pkwy South Jordan, UT",3,3,2289,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,10,2025-08-16T22:29:08.038750
+2103423,"$825,000","6026 W Mount Airy Dr South Jordan, UT",3,4,4066,ACTIVE,Merilee Rowley,Selling Salt Lake,10,2025-08-16T22:29:09.100356
+2103338,"$785,000","4914 W Crosswater Rd South Jordan, UT",5,4,3412,ACTIVE,Belladonna Riso,"EXP Realty, LLC (Park City)",10,2025-08-16T22:29:10.159392
+2103329,"$599,065","11184 S Fordman Way South Jordan, UT",3,3,2668,ACTIVE,C Terry Clark,"Ivory Homes, LTD",10,2025-08-16T22:29:11.202505
+2103321,"$586,280","11178 S Fordman Way South Jordan, UT",3,3,2643,ACTIVE,C Terry Clark,"Ivory Homes, LTD",10,2025-08-16T22:29:12.268785
+2103286,"$649,000","5208 W Lake Terrace South Jordan, UT",5,3,2859,ACTIVE,Lori Wilson-Jewett,CDA Properties Inc,10,2025-08-16T22:29:13.321798
+2103281,"$580,000","10972 S Crystal View Way South Jordan, UT",4,3,2832,ACTIVE,Carolee Mecham,Cannon & Company,10,2025-08-16T22:29:14.389365
+2103097,"$550,000","10891 S Topview Rd South Jordan, UT",3,3,3246,ACTIVE,Stacie Manning,Summit Sotheby's International Realty (Draper),11,2025-08-16T22:29:15.450784
+2103076,"$459,900","4811 W Daybreak Pkwy South Jordan, UT",3,3,1812,ACTIVE,Toni Slemko,Eleven11 Real Estate,92,2025-08-16T22:29:16.510624
+2102898,"$540,000","9737 S Stonehaven St South Jordan, UT",4,3,2808,ACTIVE,Cody Fehlberg,KW WESTFIELD,132,2025-08-16T22:29:17.566941
+2102869,"$639,900","6172 W Copper Hawk Dr South Jordan, UT",4,3,2705,ACTIVE,Heidi Christensen,Equity Real Estate (Luxury Group),12,2025-08-16T22:29:18.625775
+2102833,"$835,000","4622 W Pale Moon Ln South Jordan, UT",4,3,4810,ACCEPTING BACKUP OFFERS,Equity Real Estate (Solid),,13,2025-08-16T22:29:19.690074
+2102736,"$760,842","6698 S Miramar St #443 South Jordan, UT",4,3,3396,ACTIVE,Kalli Seager,Holmes Homes Realty,14,2025-08-16T22:29:20.753626
+2102659,"$1,399,990","11041 S Paddle Board Way #319 South Jordan, UT",5,4,4350,ACTIVE,John Dowdle,Destination Real Estate,15,2025-08-16T22:29:21.799995
+2102637,"$689,900","6778 W Docksider Dr #300 South Jordan, UT",5,4,2974,ACTIVE,Douglas Schwartz,AIM Realty,15,2025-08-16T22:29:22.859213
+2102520,"$1,995,500","1104 W 10125 S South Jordan, UT",5,4,6807,ACTIVE,Cody Emery,Summit Sotheby's International Realty (Draper),15,2025-08-16T22:29:23.919670
+2102422,"$799,000","11187 S 2480 W South Jordan, UT",4,4,3572,ACCEPTING BACKUP OFFERS,Wendy Lawrence,Presidio Real Estate (River Heights),8,2025-08-16T22:29:24.982543
+2102353,"$510,000","11256 S Chicory Ln South Jordan, UT",3,2,1572,ACTIVE,Wesley Goldberg,RANLife Real Estate Inc,16,2025-08-16T22:29:26.045963
+2102336,"$600,000","6468 W Sunrise Field Dr South Jordan, UT",5,4,2666,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,16,2025-08-16T22:29:27.107163
+2102334,"$1,350,000","1266 W Country Ridge Dr South Jordan, UT",7,6,4571,ACTIVE,Thomas Vogel,Bureau Real Estate,16,2025-08-16T22:29:28.172418
+2102299,"$2,300,000","11064 S Paddle Board Way South Jordan, UT",4,6,5992,ACTIVE,Jill Saddler,KW South Valley Keller Williams,16,2025-08-16T22:29:29.225704
+2102295,"$669,000","9516 S Tarbert Cir. South Jordan, UT",4,3,2620,ACTIVE,Kirsten Leavitt,"Spark Realty, LLC",16,2025-08-16T22:29:30.294699
+2102287,"$424,500","6698 W 11800 S #571 South Jordan, UT",3,2,1321,ACTIVE,Brittany Blake,NRE,16,2025-08-16T22:29:31.359002
+2102152,"$925,000","6436 W Birch Run Rd #694 South Jordan, UT",4,4,4548,ACTIVE,Braxton Boyt,Coldwell Banker Realty (Salt Lake-Sugar House),16,2025-08-16T22:29:32.421598
+2102118,"$650,000","4594 W Daybreak Rim Way South Jordan, UT",3,4,2700,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,16,2025-08-16T22:29:33.486311
+2102116,"$459,900","4746 W South Jordan Pkwy South Jordan, UT",3,4,2224,ACTIVE,Kathryn Suaste,Sun Key Realty LLC,51,2025-08-16T22:29:34.548571
+2102029,"$1,314,000","4811 W Dock St South Jordan, UT",6,6,4626,ACTIVE,JASON HAWKINS,NRE,17,2025-08-16T22:29:35.614665
+2102006,"$420,000","11271 S High Crest Ln South Jordan, UT",2,3,1434,ACTIVE,Tim Learned,REDFIN CORPORATION,17,2025-08-16T22:29:36.683394
+2101995,"$589,990","11589 S Nimitz Dr South Jordan, UT",3,2,2392,ACTIVE,Hyrum Brunsdale,Destination Real Estate,16,2025-08-16T22:29:37.734725
+2101971,"$199,999","10367 S Oquirrh Lake Rd #102 South Jordan, UT",1,1,680,ACTIVE,Vince Craig,Craig Realty Inc,17,2025-08-16T22:29:38.800303
+2101962,"$948,700","6378 W Verdant Hills Way South Jordan, UT",5,5,4528,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,17,2025-08-16T22:29:39.861920
+2101919,"$775,024","11214 S Easy Bee Rd South Jordan, UT",3,3,3062,ACTIVE,Kalli Seager,Holmes Homes Realty,17,2025-08-16T22:29:40.927850
+2101905,"$729,000","10896 S Gresham Dr South Jordan, UT",4,4,3127,ACTIVE,Joe Pierson,"Real Broker, LLC",17,2025-08-16T22:29:41.978996
+2101885,"$594,830","11174 S Fordman Way South Jordan, UT",3,3,2686,ACTIVE,C Terry Clark,"Ivory Homes, LTD",17,2025-08-16T22:29:44.660369
+2101730,"$595,000","6817 W Skip Rock Rd South Jordan, UT",3,3,3436,ACCEPTING BACKUP OFFERS,Tamara Zander,Zander Real Estate Team PLLC,18,2025-08-16T22:29:45.723876
+2101682,"$629,000","6077 W Franciscotti Dr South Jordan, UT",2,3,3546,ACTIVE,Leslie Neebling,Coldwell Banker Realty (Salt Lake-Sugar House),18,2025-08-16T22:29:46.789551
+2101656,"$700,000","10620 S North Forty Way South Jordan, UT",4,4,3603,ACCEPTING BACKUP OFFERS,Carlye Webb,Summit Sotheby's International Realty (Draper),18,2025-08-16T22:29:47.856022
+2101516,"$1,149,990","10931 S Glamis Dune Dr #913 South Jordan, UT",5,4,5116,ACTIVE,Stefanie Barnes,Century 21 Everest,18,2025-08-16T22:29:48.919991
+2101096,"$539,900","5023 W Currant Dr South Jordan, UT",3,3,2541,ACTIVE,Tyler Baxter,Excel Realty Inc.,22,2025-08-16T22:29:49.985124
+2101094,"$419,900","10423 S Sage Vista Way South Jordan, UT",3,3,1980,ACTIVE,Dennis DeGraw,South Rim Realty,22,2025-08-16T22:29:51.074711
+2101060,"$754,000","1597 W Crystal View Way South Jordan, UT",3,3,3283,ACTIVE,Cindy Andersen,"Chapman-Richards & Associates, Inc.",22,2025-08-16T22:29:52.138710
+2100834,"$929,000","9907 S Birdie Way South Jordan, UT",6,4,4422,ACTIVE,Justin Fox,"NVS Real Estate, Inc.",23,2025-08-16T22:29:53.198204
+2100743,"$449,900","11441 S Oakmond Rd South Jordan, UT",2,3,2482,ACTIVE,Mary Roe,Distinction Real Estate,23,2025-08-16T22:29:54.256721
+2100742,"$635,000","11064 S Porcini Dr South Jordan, UT",2,2,3296,ACTIVE,Josh Johnson,Mansell Real Estate Inc (Utah County),23,2025-08-16T22:29:55.321518
+2100661,"$539,990","11593 S Nimitz Dr South Jordan, UT",3,2,2152,ACTIVE,Hyrum Brunsdale,Destination Real Estate,24,2025-08-16T22:29:56.379627
+2100604,"$684,900","11177 S Kiwano Way South Jordan, UT",5,3,3228,ACTIVE,Brittney Carter,Fathom Realty (Orem),24,2025-08-16T22:29:57.436033
+2100367,"$727,000","11569 S Night Heron Rd South Jordan, UT",6,4,3186,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,25,2025-08-16T22:29:58.501749
+2100343,"$1,099,000","9460 S Dunsinane Dr South Jordan, UT",5,4,4744,ACTIVE,Andrea Herzog,Coldwell Banker Realty (Provo-Orem-Sundance),25,2025-08-16T22:29:59.561459
+2100285,"$545,000","6711 W Skip Rock Rd South Jordan, UT",3,3,2353,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,25,2025-08-16T22:30:00.632890
+2100137,"$572,000","5153 W Dock South Jordan, UT",4,4,2459,ACTIVE,Laurie Anderson,Realty ONE Group Signature,25,2025-08-16T22:30:01.692130
+2100004,"$385,000","4799 W Topcrest Dr South Jordan, UT",3,3,1435,ACTIVE,Josh Emfield,Realtypath LLC (Elite),26,2025-08-16T22:30:02.756612
+2099999,"$472,000","5243 W Reventon Dr #101 South Jordan, UT",3,2,1329,ACTIVE,Joann O'Brien,Windermere Real Estate (Park City),26,2025-08-16T22:30:03.820135
+2099887,"$695,000","5126 W Big Sur Dr South Jordan, UT",5,4,3363,ACTIVE,Babs De Lay,"Urban Utah Homes & Estates, LLC",28,2025-08-16T22:30:04.884969
+2099751,"$649,711","6908 W Lake Ave #214 South Jordan, UT",4,4,2686,ACTIVE,Isaac Hanson,S H Realty LC,29,2025-08-16T22:30:05.977584
+2099717,"$579,990","11369 S Offshore Way #383 South Jordan, UT",4,4,2680,ACTIVE,Jefferson Morris,Destination Real Estate,29,2025-08-16T22:30:07.035899
+2099637,"$389,900","3771 W Mandrake View Ct South Jordan, UT",2,3,1215,ACTIVE,Edward Pratt,Coldwell Banker Realty (Union Heights),29,2025-08-16T22:30:08.090480
+2099581,"$468,500","6303 W South Jordan Pkwy South Jordan, UT",3,3,2064,ACCEPTING BACKUP OFFERS,Olivia Bostwick,Engel & Volkers Salt Lake,29,2025-08-16T22:30:09.153927
+2099539,"$620,000","5016 W Calton Ln South Jordan, UT",4,4,2810,ACTIVE,Riley Prieto,ERA Brokers Consolidated (Salt Lake),29,2025-08-16T22:30:10.215636
+2099445,"$409,490","3879 W Sage Meadow Dr South Jordan, UT",3,3,1425,ACTIVE,Thomas Vogel,Bureau Real Estate,11,2025-08-16T22:30:11.277531
+2099414,"$818,900","7142 W Lake Ave South Jordan, UT",3,3,4391,ACTIVE,Kari Williams,Holmes Homes Realty,30,2025-08-16T22:30:12.338457
+2099406,"$863,900","7161 W Lake Ave South Jordan, UT",4,4,4948,ACTIVE,Kari Williams,Holmes Homes Realty,30,2025-08-16T22:30:13.392023
+2099394,"$635,990","7038 W Lake Ave South Jordan, UT",3,3,2471,ACTIVE,Hyrum Brunsdale,Destination Real Estate,30,2025-08-16T22:30:14.452636
+2099299,"$1,164,900","1113 W River Pass Cv South Jordan, UT",6,4,4605,ACTIVE,William Gregory,Signature Real Estate Utah (Cottonwood Heights),30,2025-08-16T22:30:15.503202
+2099298,"$449,900","11278 S Ropemaker Rd South Jordan, UT",3,3,1664,ACTIVE,Lynda L. Coleman,Coldwell Banker Realty (Salt Lake-Sugar House),30,2025-08-16T22:30:16.561364
+2099248,"$596,247","11771 S Rini Rd South Jordan, UT",3,3,2660,ACTIVE,Kari Williams,Holmes Homes Realty,30,2025-08-16T22:30:17.619924
+2099245,"$1,125,000","11417 S Jordan Farms Rd South Jordan, UT",5,4,5224,ACTIVE,Lance Garrett,Homie,30,2025-08-16T22:30:18.678214
+2099145,"$649,900","11177 S Village Grove Ln South Jordan, UT",3,2,2920,ACTIVE,Christopher Sprunt,Utah Home Central,23,2025-08-16T22:30:19.738756
+2099142,"$339,900","11754 S Grandville Ave #108 South Jordan, UT",3,2,1277,ACTIVE,Gabrielle Schaefer,"Real Broker, LLC",31,2025-08-16T22:30:20.788313
+2099097,"$924,990","6738 W Miramar St #5-451 South Jordan, UT",3,2,5106,ACTIVE,John Dowdle,Destination Real Estate,31,2025-08-16T22:30:21.853525
+2099083,"$699,000","10353 S Cold Moon Pl South Jordan, UT",4,3,2699,ACTIVE,Candice Rigtrup,Equity Real Estate (Advantage),31,2025-08-16T22:30:22.900106
+2098872,"$652,900","11087 Becks Bend Ln South Jordan, UT",4,4,2774,ACTIVE,Parker Young,KW South Valley Keller Williams,31,2025-08-16T22:30:23.956074
+2098358,"$669,900","11184 S Easy Bee Rd #265 South Jordan, UT",3,2,3574,ACTIVE,Kalli Seager,Holmes Homes Realty,35,2025-08-16T22:30:25.024789
+2098251,"$819,900","11378 S Aqua St #229 South Jordan, UT",5,4,3382,ACTIVE,Isaac Hanson,S H Realty LC,36,2025-08-16T22:30:26.091098
+2098220,"$565,000","6427 W Arranmore Dr South Jordan, UT",4,4,2073,ACTIVE,Lori Wilson-Jewett,CDA Properties Inc,36,2025-08-16T22:30:27.155264
+2098189,"$650,000","10741 S Topview Rd South Jordan, UT",4,4,3120,ACTIVE,Mark Dunn,Realtypath LLC (Platinum),36,2025-08-16T22:30:28.217162
+2098165,"$439,999","3794 W Angelica Ct South Jordan, UT",3,3,1670,ACTIVE,Brady Tanner,PRIME RESIDENTIAL BROKERS,36,2025-08-16T22:30:29.276376
+2098157,"$600,000","10296 S Salmon Dr South Jordan, UT",2,2,2801,ACTIVE,Alan Smith,Selling Salt Lake,36,2025-08-16T22:30:30.336964
+2098109,"$559,990","11377 S Offshore Way #378 South Jordan, UT",3,3,2841,ACTIVE,Jefferson Morris,Destination Real Estate,36,2025-08-16T22:30:31.401444
+2098105,"$659,999","1524 W Foliage Ln South Jordan, UT",5,3,3336,ACTIVE,Kyle Harrison,"Utah Key Real Estate, LLC",36,2025-08-16T22:30:32.462650
+2098064,"$679,000","2660 W 10950 S South Jordan, UT",5,3,2408,ACTIVE,Jean Tanner,"Summit Realty, Inc.",214,2025-08-16T22:30:33.523040
+2097940,"$489,800","10606 S Redknife Dr South Jordan, UT",3,3,1898,ACTIVE,Blake Capson,Equity Real Estate (Buckley),37,2025-08-16T22:30:34.594015
+2097912,"$939,900","6511 W Lake Ave South Jordan, UT",5,4,4310,ACTIVE,Kari Williams,Holmes Homes Realty,37,2025-08-16T22:30:35.653530
+2097865,"$589,900","11448 S Watercourse Rd South Jordan, UT",3,2,1706,ACTIVE,Charles Tucker,Destination Real Estate,30,2025-08-16T22:30:36.716712
+2097864,"$999,500","1116 W Wasatch Downs Dr South Jordan, UT",5,4,4398,ACTIVE,Randy Tyler Carlisle,KW South Valley Keller Williams,37,2025-08-16T22:30:39.411878
+2097786,"$689,950","11511 S Pebble Pond Rd South Jordan, UT",4,3,3597,ACTIVE,Todd Marcus,Northpoint Asset Management LLC,37,2025-08-16T22:30:40.478966
+2097754,"$469,900","11777 S Leander Dr South Jordan, UT",3,3,1868,ACTIVE,Kari Williams,Holmes Homes Realty,112,2025-08-16T22:30:41.543891
+2097566,"$659,990","6181 W Franciscotti Dr #521 South Jordan, UT",3,3,3372,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",38,2025-08-16T22:30:42.609723
+2097433,"$498,000","4937 W Daybreak Pkwy South Jordan, UT",3,3,1750,ACTIVE,Maria Smalec,1st Class Real Estate Partners,38,2025-08-16T22:30:43.672211
+2097412,"$529,990","6184 W 11800 S #508 South Jordan, UT",3,3,1890,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",38,2025-08-16T22:30:44.733940
+2097307,"$530,000","4988 W Currant Dr South Jordan, UT",3,4,2247,ACCEPTING BACKUP OFFERS,Becky Nielson,KW South Valley Keller Williams,38,2025-08-16T22:30:45.867882
+2097291,"$1,050,000","10983 S Lake Island Dr #312 South Jordan, UT",4,3,3624,ACTIVE,John Dowdle,Destination Real Estate,38,2025-08-16T22:30:46.935248
+2097233,"$574,990","11361 S Offshore Way #380 South Jordan, UT",3,3,2688,ACTIVE,Jefferson Morris,Destination Real Estate,39,2025-08-16T22:30:47.999608
+2097191,"$549,990","11382 S Watercourse Rd #386 South Jordan, UT",3,2,2684,ACTIVE,Jefferson Morris,Destination Real Estate,39,2025-08-16T22:30:49.059362
+2096976,"$555,000","3944 W Sage Blossom Way South Jordan, UT",6,4,3073,ACTIVE,Julie Burke,Equity Real Estate (Solid),40,2025-08-16T22:30:50.122654
+2096918,"$709,900","6782 W Docksider Dr #302 South Jordan, UT",5,4,3478,ACTIVE,Douglas Schwartz,AIM Realty,40,2025-08-16T22:30:51.193729
+2096734,"$665,900","11303 S Aqua St #309 South Jordan, UT",2,3,3646,ACTIVE,Kalli Seager,Holmes Homes Realty,42,2025-08-16T22:30:52.258407
+2096700,"$629,999","10164 Birnam Woods Way South Jordan, UT",4,3,2324,ACTIVE,Riley Prieto,ERA Brokers Consolidated (Salt Lake),42,2025-08-16T22:30:53.302046
+2096691,"$800,000","6153 W Poplar View Dr South Jordan, UT",4,3,3635,ACTIVE,Scott Steele,Signature Real Estate Utah (Cottonwood Heights),42,2025-08-16T22:30:54.364114
+2096673,"$760,000","11061 S Indigo Sky Way South Jordan, UT",4,5,3450,ACTIVE,Scott Foster,Distinction Real Estate,42,2025-08-16T22:30:55.427238
+2096668,"$693,900","5131 W Mellow Way South Jordan, UT",5,4,2578,ACTIVE,Kathleen Fischer,"Real Broker, LLC",43,2025-08-16T22:30:56.491748
+2096637,"$509,900","5328 W South Jordan Pkwy South Jordan, UT",4,4,2336,ACTIVE,Kathleen Fischer,"Real Broker, LLC",43,2025-08-16T22:30:57.549045
+2096611,"$750,000","11643 S Grandville Ave South Jordan, UT",3,3,3883,ACTIVE,Arthur K. Gayler,Venturewest Real Estate,200,2025-08-16T22:30:58.614037
+2096462,"$949,900","10025 Silver Streak Dr South Jordan, UT",4,4,4578,ACTIVE,Jake Breen,"Dijjit, LC",44,2025-08-16T22:30:59.672753
+2096413,"$594,500","7007 W Granbury Dr South Jordan, UT",3,3,2668,ACTIVE,C Terry Clark,"Ivory Homes, LTD",251,2025-08-16T22:31:00.724641
+2096351,"$569,900","4091 W Juniper Hills Dr South Jordan, UT",6,3,2445,ACTIVE,Jordan Smith,Equity Real Estate (Select),44,2025-08-16T22:31:01.788299
+2096324,"$899,900","6331 W Copper Hawk Dr South Jordan, UT",5,4,4360,ACTIVE,Jacqueline Reagh,Distinction Real Estate,44,2025-08-16T22:31:02.850938
+2096294,"$444,000","4843 W South Jordan Pkwy South Jordan, UT",4,4,2280,ACTIVE,Mike Crowder,In Depth Realty,45,2025-08-16T22:31:03.915602
+2096277,"$829,900","6424 W Sugar Cane Dr South Jordan, UT",3,3,3645,ACTIVE,Gabrielle Schaefer,"Real Broker, LLC",45,2025-08-16T22:31:04.976891
+2096239,"$574,900","10907 Tahoe Way South Jordan, UT",4,4,2620,ACTIVE,Kathleen Chaplin,Coldwell Banker Realty (Union Heights),44,2025-08-16T22:31:06.033518
+2096195,"$379,999","6669 W Skip Rock Rd South Jordan, UT",3,2,1361,ACTIVE,Iris Yates,"EXP Realty, LLC",45,2025-08-16T22:31:07.092469
+2096114,"$585,000","11381 S Willow Walk Dr South Jordan, UT",3,3,2867,ACTIVE,David Robison,"goBE, LLC",26,2025-08-16T22:31:08.154904
+2095878,"$765,000","6927 W Highbrow Way South Jordan, UT",6,5,3588,ACTIVE,Jeremy Fitzgerald,Century 21 Everest,46,2025-08-16T22:31:09.218228
+2095791,"$1,109,000","3371 W Waterbridge Cv #417 South Jordan, UT",6,4,5345,ACTIVE,Chris Burton,RE/MAX Associates,46,2025-08-16T22:31:10.282550
+2095740,"$465,000","1726 W Thira Ln South Jordan, UT",3,3,1625,ACCEPTING BACKUP OFFERS,Anya Bartholomew,Equity Real Estate (Premier Elite),195,2025-08-16T22:31:11.343511
+2095687,"$1,399,999","4966 W Kitsap Way #10-532 South Jordan, UT",7,6,4735,ACTIVE,Peggy Fugal,R and R Realty LLC,47,2025-08-16T22:31:12.401398
+2095537,"$950,000","10617 S Split Rock Dr South Jordan, UT",4,4,4202,ACTIVE,Peggy Fugal,R and R Realty LLC,47,2025-08-16T22:31:13.458918
+2095515,"$899,900","2524 W Martingale Cir South Jordan, UT",6,4,4126,ACTIVE,Lewis Weaver,"Real Broker, LLC",47,2025-08-16T22:31:14.523799
+2095331,"$1,975,000","10929 S Lake Island Dr South Jordan, UT",5,5,5033,ACTIVE,April Stilson,Niche Homes,50,2025-08-16T22:31:15.629974
+2095302,"$579,990","11569 S Watercourse Rd #101 South Jordan, UT",3,2,2759,ACTIVE,Jefferson Morris,Destination Real Estate,50,2025-08-16T22:31:16.684165
+2095135,"$442,000","11346 S Willow Walk Dr South Jordan, UT",3,3,1709,ACTIVE,Mario Gutierrez-Arratia,Homie,50,2025-08-16T22:31:17.747741
+2095125,"$460,000","6067 W Whistle Stop Rd South Jordan, UT",2,2,1315,ACTIVE,Richard Warren,NextHome Navigator,50,2025-08-16T22:31:18.809444
+2095049,"$864,950","11369 S Watercourse Rd #202 South Jordan, UT",5,5,3574,ACTIVE,Isaac Hanson,S H Realty LC,51,2025-08-16T22:31:19.873778
+2095027,"$580,170","5063 W Rambutan Way #121 South Jordan, UT",3,4,2197,ACTIVE,Alysha Johansen,"Weekley Homes, LLC",51,2025-08-16T22:31:20.938284
+2095016,"$439,900","11317 S Offshore Way #404 South Jordan, UT",3,2,1525,ACTIVE,Charles Tucker,Destination Real Estate,51,2025-08-16T22:31:22.001723
+2094913,"$419,600","6372 W Birch Run Rd South Jordan, UT",2,3,1507,ACTIVE,Jacob Lee,Equity Real Estate,51,2025-08-16T22:31:23.066854
+2094688,"$890,000","3884 W Sand Lake Dr South Jordan, UT",4,3,3904,ACTIVE,Ryan Pettit,KW South Valley Keller Williams,52,2025-08-16T22:31:24.130509
+2094489,"$749,900","4892 W Veeroma Way South Jordan, UT",2,2,4255,ACTIVE,Scott Hanson,Equity Real Estate (Advantage),52,2025-08-16T22:31:25.196572
+2094293,"$999,000","11449 S Bingham Rim Rd South Jordan, UT",5,4,5106,ACTIVE,Alexandria Pedroni,Utah Real Estate PC,53,2025-08-16T22:31:26.260039
+2094185,"$665,000","9714 S Oia Ln South Jordan, UT",5,4,3040,ACTIVE,Elvin Lau,"EXP Realty, LLC",54,2025-08-16T22:31:27.325041
+2094127,"$619,999","6447 W Arranmore Dr South Jordan, UT",4,3,2965,ACTIVE,Adam Icenogle,Homie,54,2025-08-16T22:31:28.370451
+2094116,"$609,900","4678 W Vermillion Dr South Jordan, UT",3,3,2091,ACTIVE,Anton Kochnev,Equity Real Estate (South Valley),47,2025-08-16T22:31:29.432030
+2094099,"$625,000","11026 S Crystal View Way South Jordan, UT",4,3,2948,ACTIVE,Samuel Munoz,NRE,54,2025-08-16T22:31:30.492090
+2094084,"$570,000","10253 S Clarks Hill Dr South Jordan, UT",4,4,2468,ACTIVE,Merilee Rowley,Selling Salt Lake,54,2025-08-16T22:31:31.535791
+2093648,"$459,000","3951 W Sage Blossom Way South Jordan, UT",3,4,2210,ACTIVE,Brandon Snarr,EXIT Realty Success,57,2025-08-16T22:31:34.227534
+2093616,"$674,900","4759 W Vermillion Dr South Jordan, UT",4,4,2940,ACCEPTING BACKUP OFFERS,Charisse Walker,"EXP Realty, LLC",58,2025-08-16T22:31:35.297399
+2093425,"$594,415","7046 W Swansea Dr South Jordan, UT",3,3,2668,ACTIVE,C Terry Clark,"Ivory Homes, LTD",58,2025-08-16T22:31:36.359882
+2093424,"$710,000","11484 S Pebble Pond Rd South Jordan, UT",6,5,3652,ACTIVE,Robyn Buckwalter,KW South Valley Keller Williams,58,2025-08-16T22:31:37.423487
+2093397,"$459,990","6168 W Franciscotti Dr #605 South Jordan, UT",2,2,1371,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",58,2025-08-16T22:31:38.482069
+2093376,"$614,900","6616 W Gosling Dr #281 South Jordan, UT",3,3,1803,ACTIVE,Charles Tucker,Destination Real Estate,58,2025-08-16T22:31:39.548685
+2093331,"$489,000","4487 W St. Andrews South Jordan, UT",4,3,2516,ACTIVE,Cooper Murphy,Equity Real Estate (Utah),58,2025-08-16T22:31:40.590391
+2093303,"$499,900","4257 W Lake Bridge Dr South Jordan, UT",4,4,2908,ACTIVE,Joshua Lambourne,Rider Real Estate LLC,58,2025-08-16T22:31:41.652379
+2093269,"$519,810","10572 S Kestrel Rise Rd South Jordan, UT",4,4,2520,ACTIVE,Brooke Martinez,"Real Broker, LLC",59,2025-08-16T22:31:42.714864
+2093238,"$1,425,000","11273 S Alisa Meadows Dr South Jordan, UT",5,4,4601,ACTIVE,Pieter Wouden,Dutchman Real Estate,83,2025-08-16T22:31:43.777722
+2093129,"$1,195,000","9532 S Willow Trail Way South Jordan, UT",4,4,4672,ACTIVE,Jasmine Reinhardt,Summit Sotheby's International Realty (Heber),59,2025-08-16T22:31:44.839035
+2093120,"$635,000","4966 W Willamette Way South Jordan, UT",5,4,2586,ACCEPTING BACKUP OFFERS,Connor Dyches,RANLife Real Estate Inc,59,2025-08-16T22:31:45.903790
+2093102,"$533,114","6927 W South Jordan Pkwy South Jordan, UT",4,4,2289,ACTIVE,Roberto Fraga,Holmes Homes Realty,59,2025-08-16T22:31:46.966216
+2093039,"$540,000","10363 S Silver Mine Rd South Jordan, UT",4,4,2964,ACTIVE,Lisa Romero,Equity Real Estate (Advantage),59,2025-08-16T22:31:48.029654
+2092684,"$689,900","1727 W Brocious Way #302 South Jordan, UT",5,3,3288,ACTIVE,Jeffrey Johnston,J and M Realty Group LLC,61,2025-08-16T22:31:49.088341
+2092683,"$619,900","1719 W Brocious Way #301 South Jordan, UT",4,3,2620,ACTIVE,Jeffrey Johnston,J and M Realty Group LLC,61,2025-08-16T22:31:50.151394
+2092562,"$390,000","6191 W South Jordan Pkwy #286 South Jordan, UT",2,3,1370,ACTIVE,Cody Thorup,KW WESTFIELD,61,2025-08-16T22:31:51.216270
+2092556,"$675,000","955 W Charlotte Dr South Jordan, UT",5,3,2944,ACTIVE,Cynthia Poole,Presidio Real Estate (South Valley),61,2025-08-16T22:31:52.276385
+2092516,"$1,400,000","2671 W Constance Way South Jordan, UT",5,5,5405,ACTIVE,Sara Guernsey,"EXP Realty, LLC",61,2025-08-16T22:31:53.322558
+2092420,"$633,900","11303 S Aqua St #309 South Jordan, UT",4,3,2510,ACTIVE,Kalli Seager,Holmes Homes Realty,63,2025-08-16T22:31:54.389854
+2092414,"$673,900","7083 Bluefin Dr #139 South Jordan, UT",3,2,3062,ACTIVE,Kalli Seager,Holmes Homes Realty,63,2025-08-16T22:31:55.451236
+2092094,"$655,000","11768 S Copper Sky Dr South Jordan, UT",5,3,3260,ACTIVE,Connie Elliott,Windermere Real Estate (Draper),64,2025-08-16T22:31:56.512312
+2092005,"$664,900","10056 S Remembrance Ln South Jordan, UT",4,3,2847,ACTIVE,Micah Pearson,Realtypath LLC (Central),58,2025-08-16T22:31:57.575464
+2091980,"$579,000","4956 W Vermillion Dr South Jordan, UT",4,4,2310,ACTIVE,Scott Miller,EXIT Realty Success,65,2025-08-16T22:31:58.637860
+2091949,"$395,000","4851 W Daybreak Pkwy South Jordan, UT",2,3,1388,ACTIVE,Levi Coleman,"Real Broker, LLC",65,2025-08-16T22:31:59.701424
+2091879,"$625,000","11702 S Silver Pond Dr #497 South Jordan, UT",3,3,3283,ACTIVE,Andrea Newby,Zander Real Estate Team PLLC,65,2025-08-16T22:32:00.766170
+2091826,"$800,000","10426 S Split Rock Dr South Jordan, UT",7,4,4184,ACCEPTING BACKUP OFFERS,Heather Roxburgh,"Real Broker, LLC (Draper)",65,2025-08-16T22:32:01.831855
+2091779,"$449,900","11079 S Lake Run Rd South Jordan, UT",3,3,1811,ACTIVE,Curry Jones,"Real Broker, LLC",65,2025-08-16T22:32:02.898507
+2091698,"$439,900","11319 S Offshore Way #403 South Jordan, UT",3,2,1525,ACTIVE,Charles Tucker,Destination Real Estate,65,2025-08-16T22:32:03.959564
+2091677,"$650,000","3884 W Coral Dune Dr South Jordan, UT",3,3,2778,ACTIVE,Lori Chamberlain,Chamberlain & Company Realty,65,2025-08-16T22:32:05.021900
+2091595,"$759,900","10314 S 3970 W South Jordan, UT",6,4,4006,ACTIVE,Rylar Masco,"Utah Key Real Estate, LLC",65,2025-08-16T22:32:06.084630
+2091288,"$529,000","4746 W Daybreak Rim Way South Jordan, UT",3,3,1760,ACTIVE,Jordan Hager,"EXP Realty, LLC",66,2025-08-16T22:32:07.149204
+2091267,"$499,999","10219 S Sacramento Way South Jordan, UT",3,3,2585,ACTIVE,Rachel Williams,Real Estate Essentials,66,2025-08-16T22:32:08.215210
+2091247,"$649,999","10756 S Navarro Way South Jordan, UT",4,3,3050,ACTIVE,Tammy Jones,Century 21 Everest,67,2025-08-16T22:32:09.280594
+2091218,"$489,982","6658 W 11800 S South Jordan, UT",4,4,1914,ACTIVE,Kalli Seager,Holmes Homes Realty,67,2025-08-16T22:32:10.352431
+2091211,"$719,900","11192 S Easy Bee Rd #262 South Jordan, UT",2,3,3718,ACTIVE,Kalli Seager,Holmes Homes Realty,220,2025-08-16T22:32:11.418937
+2091188,"$724,900","5206 W Mellow Way South Jordan, UT",4,4,2690,ACTIVE,Samuel Brinton,REDFIN CORPORATION,67,2025-08-16T22:32:12.483513
+2091080,"$719,900","11228 S Old Bridge Rd South Jordan, UT",4,4,3039,ACTIVE,Lisa Radke,Selling Salt Lake,67,2025-08-16T22:32:13.542813
+2090856,"$440,000","3878 W Sage Willow Dr South Jordan, UT",3,3,1568,ACTIVE,Bryant Nielsen,Equity Real Estate (Results),67,2025-08-16T22:32:14.605489
+2090834,"$669,900","10777 S Lamond Dr South Jordan, UT",3,3,2976,ACCEPTING BACKUP OFFERS,Jill Green,Better Homes and Gardens Real Estate Momentum (Lehi),63,2025-08-16T22:32:15.666140
+2090832,"$417,000","6202 W Birch Run Rd South Jordan, UT",2,3,1233,ACTIVE,Jenn Kikel-Lynn,K Real Estate,68,2025-08-16T22:32:16.729327
+2090728,"$730,000","10453 S 2775 W South Jordan, UT",6,4,3740,ACTIVE,Adam Frenza,Windermere Real Estate (Daybreak),68,2025-08-16T22:32:17.792751
+2090599,"$474,900","10849 S Lake Run Rd #187 South Jordan, UT",3,4,1968,ACTIVE,Kathleen Fischer,"Real Broker, LLC",69,2025-08-16T22:32:18.854962
+2090545,"$650,000","11569 S Oakmond Rd South Jordan, UT",6,4,3330,ACTIVE,Nicole Quealy,KW South Valley Keller Williams,69,2025-08-16T22:32:19.921775
+2090542,"$484,900","6648 W 11800 S South Jordan, UT",3,3,1914,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,70,2025-08-16T22:32:20.987608
+2090538,"$399,000","11411 S Oakmond Rd South Jordan, UT",3,4,2160,ACTIVE,Esteban Medina,"Mountainland Realty, Inc.",70,2025-08-16T22:32:22.055537
+2090458,"$682,900","11208 S Easy Bee St #268 South Jordan, UT",4,3,3599,ACTIVE,Kalli Seager,Holmes Homes Realty,71,2025-08-16T22:32:23.122903
+2090444,"$1,499,999","2908 W Bison Ridge Rd South Jordan, UT",6,6,6487,ACTIVE,Rachael Shaw,Presidio Real Estate (Mountain View),71,2025-08-16T22:32:24.191086
+2090290,"$399,000","11738 S Currant Dr #112 South Jordan, UT",3,2,1277,ACTIVE,Colleen Mitchell,Realtypath LLC (Platinum),71,2025-08-16T22:32:25.251950
+2090123,"$569,900","11603 S Outfitter Way South Jordan, UT",3,3,2729,ACTIVE,Michele McOmber,McOmber Team Real Estate,71,2025-08-16T22:32:26.314975
+2090055,"$1,050,000","4554 W Birdie Way South Jordan, UT",5,4,5104,ACTIVE,Spencer Park,Equity Real Estate (South Valley),196,2025-08-16T22:32:28.984278
+2090037,"$679,900","3577 W Haven Hollow Dr South Jordan, UT",2,2,3100,ACTIVE,Lisa Willden,Peterson Homes,72,2025-08-16T22:32:30.046343
+2090035,"$899,990","6586 W Key Largo Way #2-150 South Jordan, UT",3,2,4968,ACTIVE,John Dowdle,Destination Real Estate,72,2025-08-16T22:32:31.108347
+2090017,"$420,000","6168 W Birch Run Rd South Jordan, UT",2,3,1316,ACTIVE,Kendall Burgess,"Real Broker, LLC",72,2025-08-16T22:32:32.173256
+2090010,"$799,990","6718 W Salt Marsh Rd #5-433 South Jordan, UT",4,3,3859,ACTIVE,John Dowdle,Destination Real Estate,68,2025-08-16T22:32:33.237459
+2089945,"$599,990","6133 W Stone Mount Way #583 South Jordan, UT",3,3,3151,ACTIVE,Julie Israelsen,"Advantage Real Estate, LLC",72,2025-08-16T22:32:34.306579
+2089740,"$989,000","11579 S Pebble Pond Rd South Jordan, UT",6,4,4518,ACTIVE,Jane Draper,Selling Salt Lake,73,2025-08-16T22:32:35.347472
+2089689,"$580,000","5114 W Mellow Way South Jordan, UT",4,4,2665,ACTIVE,Garritt Wilkey,1st Class Real Estate Partners,73,2025-08-16T22:32:36.406508
+2089616,"$989,900","11436 S Watercourse Rd South Jordan, UT",4,4,2818,ACTIVE,Kari Williams,Holmes Homes Realty,190,2025-08-16T22:32:37.463939
+2089410,"$560,000","4988 W Mellow Way South Jordan, UT",4,4,2157,ACTIVE,Jane Draper,Selling Salt Lake,74,2025-08-16T22:32:38.517445
+2089353,"$385,000","5228 W South Jordan Pkwy South Jordan, UT",2,2,1272,ACTIVE,Gayle Thomas,Selling Salt Lake,74,2025-08-16T22:32:39.574293
+2089302,"$998,000","10926 S Little Sahara Dr #1002 South Jordan, UT",5,4,5116,ACTIVE,Ryan Pettit,KW South Valley Keller Williams,74,2025-08-16T22:32:40.638125
+2089103,"$615,000","10486 S Harvest Glory Dr #125 South Jordan, UT",3,3,1842,ACTIVE,Tyler Larsen,Engel & Volkers Salt Lake,49,2025-08-16T22:32:41.700025
+2089002,"$1,374,900","10605 S Willow Valley Rd South Jordan, UT",7,4,5791,ACTIVE,Tricia Ashby,MOVE UTAH REAL ESTATE,75,2025-08-16T22:32:42.759119
+2088967,"$749,900","10773 S Beach Comber Way South Jordan, UT",4,4,2892,ACTIVE,Kelsey Maupome,"Real Broker, LLC",75,2025-08-16T22:32:43.820547
+2088656,"$809,900","5028 W Lake Terrace Ave South Jordan, UT",5,4,3587,ACTIVE,Mike Waldvogel,Presidio Real Estate,78,2025-08-16T22:32:44.884094
+2088577,"$449,000","6893 S Jordan Pkwy W South Jordan, UT",3,2,1251,ACTIVE,Charles Bevis,Holmes Homes Realty,78,2025-08-16T22:32:45.950754
+2088457,"$439,000","3671 W Sunrise Sky Ln #1022 South Jordan, UT",3,3,1722,ACTIVE,Ping Xi,Coldwell Banker Realty (Union Heights),69,2025-08-16T22:32:47.014909
+2088372,"$459,900","6718 W 11800 S South Jordan, UT",3,3,1915,ACTIVE,Drew Sessions,Coldwell Banker Realty (Heber),79,2025-08-16T22:32:48.078138
+2088324,"$449,900","5087 W Rambutan Way South Jordan, UT",3,2,1432,ACTIVE,Paige Miles,Windermere Real Estate (Draper),79,2025-08-16T22:32:49.142874
+2088231,"$849,000","5067 W Beach Comber Way South Jordan, UT",4,4,4172,ACTIVE,Kristel Gough,Summit Sotheby's International Realty (Draper),79,2025-08-16T22:32:50.185988
+2088189,"$604,985","11693 S Watercourse Rd South Jordan, UT",4,4,2541,ACTIVE,Helene Kepas-Brown,Coldwell Banker Realty (Provo-Orem-Sundance),79,2025-08-16T22:32:51.239442
+2088104,"$489,900","5377 W Bowstring Way South Jordan, UT",4,4,2186,ACTIVE,Jeff Franco,Holmes Homes Realty,79,2025-08-16T22:32:52.303517
+2088070,"$395,000","11764 S Leander Rd #578 South Jordan, UT",3,2,1361,ACTIVE,Darin Kidd,"EXP Realty, LLC",156,2025-08-16T22:32:53.350720
+2087929,"$407,400","5263 W Reventon Rd South Jordan, UT",3,2,1329,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,80,2025-08-16T22:32:54.408977
+2087921,"$407,400","5263 W Reventon Rd South Jordan, UT",3,2,1329,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,80,2025-08-16T22:32:55.473166
+2087911,"$383,400","5263 W Reventon Rd South Jordan, UT",2,2,1092,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,80,2025-08-16T22:32:56.533432
+2087904,"$383,400","5263 W Reventon Rd South Jordan, UT",2,2,1092,ACTIVE,Kevin Valenzuela,Holmes Homes Realty,80,2025-08-16T22:32:57.597209
+2087815,"$689,900","3907 W Tottori Dune Dr South Jordan, UT",5,3,2543,ACTIVE,Traci Crockett,KW South Valley Keller Williams,80,2025-08-16T22:32:58.658239
+2087772,"$445,000","6654 W Skip Rock Rd South Jordan, UT",3,3,1410,ACCEPTING BACKUP OFFERS,Elda Baker,Utah's Wise Choice Real Estate,81,2025-08-16T22:32:59.723803
+2087747,"$579,990","11586 S Nimitz Dr South Jordan, UT",3,3,2240,ACTIVE,Hyrum Brunsdale,Destination Real Estate,81,2025-08-16T22:33:00.784343
+2087489,"$449,000","11398 Lake Run Rd South Jordan, UT",3,3,1648,ACTIVE,Kristilyn Farr,RANLife Real Estate Inc,84,2025-08-16T22:33:01.845487
+2087439,"$687,000","6178 W Sugarcane Dr South Jordan, UT",5,4,3055,ACTIVE,Todd Dean,Equity Real Estate (Solid),84,2025-08-16T22:33:02.908359
+2087436,"$439,000","4773 W Daybreak Rim Way South Jordan, UT",3,3,1708,ACTIVE,Trello Prince,NRE,84,2025-08-16T22:33:03.968644
+2087366,"$369,900","5957 W Lake Ave South Jordan, UT",2,3,1152,ACTIVE,Robyn Moody,Realty HQ,85,2025-08-16T22:33:05.014734
+2087314,"$563,700","10394 S Crow Wing Dr South Jordan, UT",4,4,3108,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,85,2025-08-16T22:33:06.078616
+2087244,"$798,900","6228 W Copperhawk Dr South Jordan, UT",6,4,4160,ACTIVE,Craig Whiting,Prime Real Estate Experts,85,2025-08-16T22:33:07.146486
+2086953,"$594,990","11576 S Nimitz Dr South Jordan, UT",3,2,2588,ACTIVE,Hyrum Brunsdale,Destination Real Estate,86,2025-08-16T22:33:08.207949
+2086931,"$530,000","10227 S Oquirrh Lake Rd South Jordan, UT",2,2,2568,ACTIVE,Matt Jones,RE/MAX Associates,86,2025-08-16T22:33:09.272662
+2086901,"$749,900","9566 S Ember Glow Ct #C South Jordan, UT",4,4,2572,ACTIVE,Joshua Jensen,Valley Vu Realty,86,2025-08-16T22:33:10.336292
+2086467,"$520,000","5241 W South Jordan Pkwy South Jordan, UT",5,4,2763,ACTIVE,Ryan Kramer,RE/MAX Associates,87,2025-08-16T22:33:11.401045
+2086448,"$820,000","10451 S Abbott Way South Jordan, UT",5,4,4201,ACCEPTING BACKUP OFFERS,Becky Nielson,KW South Valley Keller Williams,87,2025-08-16T22:33:12.461375
+2086387,"$525,000","4584 W Daybreak Rim Way South Jordan, UT",3,3,1932,ACTIVE,Ashley Wolthuis,RE/MAX Associates (South Ogden),88,2025-08-16T22:33:13.514235
+2086338,"$879,900","6734 W Salt Marsh Rd #5-430 South Jordan, UT",5,3,4220,ACTIVE,John Dowdle,Destination Real Estate,88,2025-08-16T22:33:14.578685
+2086259,"$724,950","6904 W Lake Ave #213 South Jordan, UT",4,4,3154,ACTIVE,Isaac Hanson,S H Realty LC,88,2025-08-16T22:33:15.648588
+2086234,"$589,990","11384 S Watercourse Rd #385 South Jordan, UT",4,4,2745,ACTIVE,Jefferson Morris,Destination Real Estate,88,2025-08-16T22:33:16.710061
+2086083,"$405,000","5841 W Lake Ave South Jordan, UT",2,3,1750,ACTIVE,Jared English,Congress Realty Inc,89,2025-08-16T22:33:17.774461
+2085942,"$454,900","1741 W Nikos Ln South Jordan, UT",3,2,1415,ACTIVE,Kevin McCombs,"Elite Plus Real Estate, LLC",272,2025-08-16T22:33:18.836948
+2085845,"$919,990","11121 S Bingham Rim Rd #5-425 South Jordan, UT",3,4,5026,ACTIVE,John Dowdle,Destination Real Estate,80,2025-08-16T22:33:19.900857
+2085788,"$385,999","11413 S Kitty Hawk Rd South Jordan, UT",3,2,1314,ACTIVE,Lance Anderson,Jason Mitchell Real Estate Utah LLC,91,2025-08-16T22:33:20.957942
+2085639,"$569,990","6502 W Iguazu Dr South Jordan, UT",3,2,2392,ACTIVE,Hyrum Brunsdale,Destination Real Estate,92,2025-08-16T22:33:23.627204
+2085566,"$599,990","11578 S Nimitz Dr South Jordan, UT",3,2,2471,ACTIVE,Hyrum Brunsdale,Destination Real Estate,92,2025-08-16T22:33:24.691929
+2085464,"$529,900","11437 S Watercourse Rd #183 South Jordan, UT",2,3,1690,ACTIVE,Charles Tucker,Destination Real Estate,92,2025-08-16T22:33:25.755649
+2085327,"$825,000","911 W Brookcrest Cir South Jordan, UT",5,3,3827,ACTIVE,James Roth,"Real Broker, LLC",93,2025-08-16T22:33:26.818313
+2085308,"$865,000","11526 S Equestrian Dr South Jordan, UT",7,6,4672,ACTIVE,Darin Kidd,"EXP Realty, LLC",91,2025-08-16T22:33:27.883363
+2085221,"$712,000","6781 W Meadow Grass Dr South Jordan, UT",4,4,3080,ACTIVE,Kelly Hamlin,Summit Sotheby's International Realty,93,2025-08-16T22:33:28.947742
+2084993,"$517,500","5054 W Duckhorn Dr South Jordan, UT",3,3,2072,ACTIVE,Brody Stevenett,J and M Realty Group LLC,93,2025-08-16T22:33:29.994845
+2084905,"$1,000,000","3312 W Country Bluff Rd #5 South Jordan, UT",5,3,3936,ACTIVE,Lindsey Andrus,South Rim Realty,94,2025-08-16T22:33:31.057140
+2084770,"$2,288,887","11131 S Palisade Rim Cir South Jordan, UT",5,6,7140,ACTIVE,Tiani Shoemaker,Real Estate Essentials,94,2025-08-16T22:33:32.123223
+2084667,"$464,700","5807 W Lake Ave South Jordan, UT",4,3,2184,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,95,2025-08-16T22:33:33.183272
+2084471,"$524,900","10342 S Millerton Dr South Jordan, UT",5,4,2461,ACCEPTING BACKUP OFFERS,Stewart Hart,RANLife Real Estate Inc,95,2025-08-16T22:33:34.243577
+2084469,"$1,199,000","9847 S Castello Ct #5 South Jordan, UT",4,4,5010,ACTIVE,Amy May,Berkshire Hathaway HomeServices Utah Properties (Salt Lake),95,2025-08-16T22:33:35.300394
+2084344,"$974,900","9496 S 1930 W South Jordan, UT",7,5,4244,ACTIVE,Terry Vigil,Realty ONE Group Signature,96,2025-08-16T22:33:36.360693
+2084320,"$720,000","10243 S Silver Mine Rd South Jordan, UT",5,4,3346,ACTIVE,Ava Lieb,Homie,96,2025-08-16T22:33:37.420625
+2084159,"$549,900","10956 S Maple Forest Way South Jordan, UT",4,4,2469,ACCEPTING BACKUP OFFERS,Sikandar Sial,Equity Real Estate (Solid),97,2025-08-16T22:33:38.466636
+2084074,"$1,349,000","5038 W Lake Ave South Jordan, UT",6,5,5158,ACTIVE,Aaron Oldham,Woodley Real Estate,98,2025-08-16T22:33:39.531301
+2083981,"$1,500,000","10999 S Lake Dr South Jordan, UT",5,5,4703,ACTIVE,John Dowdle,Destination Real Estate,99,2025-08-16T22:33:40.595057
+2083811,"$1,100,000","10543 S 2330 W South Jordan, UT",5,3,4284,ACTIVE,Scott Steele,Signature Real Estate Utah (Cottonwood Heights),99,2025-08-16T22:33:41.657682
+2083776,"$499,000","5127 W Rambutan Way South Jordan, UT",4,3,1985,ACTIVE,Joshua Campbell,Simply Real Estate & Affiliates LLC,99,2025-08-16T22:33:42.722728
+2083731,"$799,999","4144 W Foxview Dr South Jordan, UT",5,5,3450,ACTIVE,Maulik Shah,Fathom Realty (Union Park),100,2025-08-16T22:33:43.790786
+2083660,"$669,800","4491 W Daybreak Rim Way South Jordan, UT",3,3,2460,ACTIVE,Rebecca Sloss,Selling Salt Lake,100,2025-08-16T22:33:44.833431
+2083495,"$468,500","10627 S Pipestone Way #144 South Jordan, UT",4,3,1650,ACTIVE,S H Realty LC,,100,2025-08-16T22:33:45.903558
+2083422,"$878,900","11383 S Watercourse Rd #206 South Jordan, UT",3,4,3348,ACTIVE,Isaac Hanson,S H Realty LC,100,2025-08-16T22:33:46.967669
+2083382,"$584,500","7003 W Granbury Dr South Jordan, UT",4,3,2247,ACTIVE,C Terry Clark,"Ivory Homes, LTD",100,2025-08-16T22:33:48.031011
+2083362,"$924,900","6721 W Lake Ave #121 South Jordan, UT",5,4,3748,ACTIVE,Christopher Nehren,"Atlas Real Estate, LLC",100,2025-08-16T22:33:49.091698
+2083088,"$1,390,000","11243 S Prosperity Rd South Jordan, UT",7,5,5010,ACTIVE,Stacie Manning,Summit Sotheby's International Realty (Draper),101,2025-08-16T22:33:50.149884
+2082952,"$749,650","6967 W Lake Ave #324 South Jordan, UT",4,4,3154,ACTIVE,Isaac Hanson,S H Realty LC,102,2025-08-16T22:33:51.211558
+2082809,"$340,000","11782 S Currant #108 South Jordan, UT",3,2,1277,ACTIVE,Ava Lieb,Homie,102,2025-08-16T22:33:52.274067
+2082650,"$1,150,000","1480 Y Worry Ln South Jordan, UT",5,5,4000,ACTIVE,John Mclawhorn,Realtypath LLC (South Valley),103,2025-08-16T22:33:53.338233
+2082648,"$998,500","11549 S Equestrian Dr South Jordan, UT",4,4,3784,ACTIVE,Wesley Goldberg,RANLife Real Estate Inc,103,2025-08-16T22:33:54.425053
+2082389,"$725,000","11517 S Pebble Pond 6937 South Jordan, UT",3,3,3601,ACTIVE,Amy Kendall,KW Westfield (ACADIA),105,2025-08-16T22:33:55.486513
+2082352,"$665,000","11046 S Becks Bend Ln South Jordan, UT",4,4,3331,ACTIVE,Nancy Zheng,Realtypath LLC (Prestige),105,2025-08-16T22:33:56.547250
+2082291,"$645,000","11756 S Outfitter Way South Jordan, UT",4,4,2879,ACTIVE,Gina Brown,"EXP Realty, LLC",16,2025-08-16T22:33:57.608267
+2082026,"$550,000","11619 S Silver Pond Dr South Jordan, UT",3,3,2806,ACTIVE,James Roth,"Real Broker, LLC",106,2025-08-16T22:33:58.671554
+2081976,"$550,000","5346 W Canary Grass Way South Jordan, UT",3,3,2674,ACTIVE,JARED HANSEN,KW South Valley Keller Williams,106,2025-08-16T22:33:59.728805
+2081698,"$799,000","11254 S Bingham Rim Rd South Jordan, UT",4,3,3813,ACTIVE,Justin Sisson,"Bickmore & Associates Realty, LLC",107,2025-08-16T22:34:00.787151
+2081671,"$675,000","10674 S Pine Shadow Rd South Jordan, UT",6,4,3141,ACTIVE,Tiffany Kennedy,RE/MAX Associates (St Geo),107,2025-08-16T22:34:01.840680
+2081573,"$474,000","10983 S Lake Run Rd South Jordan, UT",2,3,1435,ACTIVE,Jill Lutz,Coldwell Banker Realty (Union Heights),38,2025-08-16T22:34:02.900013
+2081100,"$1,250,000","11362 Palisade View Dr South Jordan, UT",6,5,5308,ACTIVE,Gary Cannon,Cannon & Company,109,2025-08-16T22:34:03.958157
+2080785,"$469,990","6777 W South Jordan Pkwy South Jordan, UT",3,3,1552,ACTIVE,Charles Tucker,Destination Real Estate,110,2025-08-16T22:34:05.017882
+2080769,"$949,000","10252 S 3570 W South Jordan, UT",7,5,5205,ACTIVE,Lori Wilson-Jewett,CDA Properties Inc,110,2025-08-16T22:34:06.080080
+2080677,"$475,000","11412 S Regalstone Dr South Jordan, UT",3,3,1607,ACTIVE,Abril Burgoyne,Real Estate Essentials,110,2025-08-16T22:34:07.142797
+2080671,"$407,000","4947 W Calton Ln South Jordan, UT",3,3,1487,ACTIVE,Pamela Blevins,Equity Real Estate (Advantage),111,2025-08-16T22:34:08.207028
+2080504,"$595,885","11279 S Lake Run Rd #126 South Jordan, UT",3,3,2166,ACTIVE,Alysha Johansen,"Weekley Homes, LLC",113,2025-08-16T22:34:09.270346
+2080469,"$524,990","5078 W Rambutan Way #125 South Jordan, UT",3,3,1932,ACTIVE,Alysha Johansen,"Weekley Homes, LLC",113,2025-08-16T22:34:10.333996
+2080379,"$594,900","5023 W South Jordan Pkwy South Jordan, UT",4,3,2846,ACTIVE,Matthew Peay,Dimension Realty Services (Salt Lake City),85,2025-08-16T22:34:11.400229
+2080271,"$514,000","5069 W Daybreak Pkwy South Jordan, UT",3,3,1750,ACTIVE,Brittany Penrose,Equity Real Estate (Solid),213,2025-08-16T22:34:12.460010
+2080094,"$822,900","6807 W South Jordan Pkwy #251 South Jordan, UT",3,4,3574,ACTIVE,Isaac Hanson,S H Realty LC,114,2025-08-16T22:34:13.510004
+2080029,"$459,990","6773 W South Jordan Pkwy #331 South Jordan, UT",3,3,1552,ACTIVE,Charles Tucker,Destination Real Estate,114,2025-08-16T22:34:14.573785
+2079982,"$1,850,000","11756 S Gold Dust Dr South Jordan, UT",6,4,5352,ACTIVE,Philip Harvey,Century 21 Everest,114,2025-08-16T22:34:15.619710
+2079775,"$515,000","5214 W Arista Way South Jordan, UT",4,3,2080,ACTIVE,Andrea Newby,Zander Real Estate Team PLLC,89,2025-08-16T22:34:18.301862
+2079734,"$2,300,000","3168 W Chalk Creek Way South Jordan, UT",8,6,7611,ACTIVE,Merilee Rowley,Selling Salt Lake,115,2025-08-16T22:34:19.366919
+2079666,"$2,850,000","11606 S Halcom Dr South Jordan, UT",6,7,6925,ACTIVE,Libbey Chuy,Equity Real Estate (South Valley),115,2025-08-16T22:34:20.431366
+2079592,"$599,000","6257 W Birch Run Rd #125 South Jordan, UT",3,3,2808,ACTIVE,Taylor Lake,Windermere Real Estate,115,2025-08-16T22:34:21.497494
+2079071,"$399,000","4466 W 11800 S South Jordan, UT",3,3,1492,ACTIVE,Jenna Sullivan,Coldwell Banker Realty (Provo-Orem-Sundance),117,2025-08-16T22:34:22.563221
+2079062,"$848,887","9809 S Jordan Ridge Cir South Jordan, UT",5,3,3123,ACTIVE,Tiani Shoemaker,Real Estate Essentials,117,2025-08-16T22:34:23.620451
+2078906,"$3,575,000","10812 S Lees Dream Dr South Jordan, UT",9,10,11683,ACCEPTING BACKUP OFFERS,Shelly Tripp,Coldwell Banker Realty (Union Heights),46,2025-08-16T22:34:24.781719
+2078838,"$598,000","6706 W Skip Rock Rd South Jordan, UT",3,3,2879,ACTIVE,William Caycho,Realtypath LLC (Elite),120,2025-08-16T22:34:25.843377
+2078577,"$799,900","11113 S Cadbury Dr South Jordan, UT",5,6,3317,ACTIVE,Sikandar Sial,Equity Real Estate (Solid),121,2025-08-16T22:34:26.907809
+2078281,"$1,295,000","1481 W Midas Creek Dr South Jordan, UT",6,6,6673,ACTIVE,Joseph Ellis,Flat Rate Homes,121,2025-08-16T22:34:27.969837
+2077932,"$1,024,900","10566 S Lake Ave South Jordan, UT",4,4,3566,ACTIVE,Ryan Larsen,"R Squared Real Estate, LLC",116,2025-08-16T22:34:29.039948
+2077779,"$388,000","3749 W Mandrake Way South Jordan, UT",2,2,1218,ACTIVE,Burgess Cline,Interstate Realty Brokers,123,2025-08-16T22:34:30.106351
+2077543,"$649,900","6149 W Moon Valley Drive Dr South Jordan, UT",4,3,2703,ACTIVE,Aldo Aragon,In Depth Realty,123,2025-08-16T22:34:31.165246
+2077478,"$449,900","4911 W Calton Ln South Jordan, UT",3,3,2175,ACTIVE,David Anderegg,Realtypath LLC,124,2025-08-16T22:34:32.230952
+2076664,"$989,000","10713 S Lake Terrace Ave South Jordan, UT",5,4,4179,ACTIVE,Christopher Gerac,"Real Broker, LLC",128,2025-08-16T22:34:33.294432
+2076577,"$484,000","11612 S Watercourse Rd Rd South Jordan, UT",3,3,1543,ACTIVE,Chris Bond,"Real Broker, LLC",128,2025-08-16T22:34:34.357854
+2076575,"$1,350,000","2872 W Rolling Creek Way South Jordan, UT",6,4,5532,ACTIVE,Julie Johnson,Berkshire Hathaway HomeServices Utah Properties (Salt Lake),128,2025-08-16T22:34:35.425584
+2076556,"$1,250,000","10924 S Paddle Board Way South Jordan, UT",4,4,4020,ACTIVE,Kristin Kassing,Niche Homes,116,2025-08-16T22:34:36.488265
+2076177,"$540,000","11531 S Bingham Rim Rd South Jordan, UT",3,3,2643,ACTIVE,Robert Ninow,Stone Edge Real Estate LLC,129,2025-08-16T22:34:37.552733
+2076087,"$1,280,000","2847 W Amini Way South Jordan, UT",6,3,5804,ACTIVE,Don Shiveley,Value 1st Realty LLC,129,2025-08-16T22:34:38.606537
+2075671,"$545,000","6156 W Poplar View Dr South Jordan, UT",3,3,1886,ACTIVE,Andrea Newby,Zander Real Estate Team PLLC,131,2025-08-16T22:34:39.649476
+2075561,"$790,000","11534 S Rk Cv South Jordan, UT",4,4,3254,ACTIVE,Danna Bui-Negrete,LRG Collective,25,2025-08-16T22:34:40.713954
+2075398,"$619,900","4347 W 11770 S South Jordan, UT",5,3,2536,ACTIVE,Bob Cusick,Realtypath LLC (South Valley),134,2025-08-16T22:34:41.765686
+2075044,"$445,500","3677 W Golden Sky Ln South Jordan, UT",3,3,1722,ACTIVE,David Fife,Realtypath LLC (Secure),135,2025-08-16T22:34:42.823424
+2074479,"$349,000","11738 S Currant Dr #101 South Jordan, UT",3,2,1277,ACTIVE,Brian Bullock,"Densley Development, Inc. (American Fork)",136,2025-08-16T22:34:43.884657
+2074431,"$1,400,000","6978 W Docksider Dr South Jordan, UT",4,4,4900,ACTIVE,Whitney Glassman,Selling Salt Lake,137,2025-08-16T22:34:44.951239
+2073461,"$428,900","11331 S Holly Springs Dr South Jordan, UT",3,3,1602,ACTIVE,Paul Stanworth,REALTY GROUP UTAH LLC,142,2025-08-16T22:34:46.016076
+2073377,"$614,900","9511 S Tirado Cv #204 South Jordan, UT",4,3,2620,ACTIVE,Jeffrey Johnston,J and M Realty Group LLC,142,2025-08-16T22:34:47.081807
+2073366,"$679,900","9503 S Tirado Cv #203 South Jordan, UT",5,3,3288,ACTIVE,Jeffrey Johnston,J and M Realty Group LLC,142,2025-08-16T22:34:48.142999
+2073291,"$745,900","9526 S Ember Glow Ct #C South Jordan, UT",4,3,2571,ACTIVE,Joshua Jensen,Valley Vu Realty,142,2025-08-16T22:34:49.207674
+2073153,"$1,325,000","6889 W Lake Ave South Jordan, UT",6,5,5140,ACTIVE,Kaitlin Hannig,"Real Broker, LLC",142,2025-08-16T22:34:50.273375
+2072411,"$446,973","6918 W Granbury Dr #359 South Jordan, UT",3,3,1251,ACTIVE,Roberto Fraga,Holmes Homes Realty,145,2025-08-16T22:34:51.332725
+2072369,"$493,459","6931 W South Jordan Pkwy #307 South Jordan, UT",3,3,1852,ACTIVE,Roberto Fraga,Holmes Homes Realty,145,2025-08-16T22:34:52.394177
+2072314,"$407,701","6928 W Granbury Dr #362 South Jordan, UT",2,3,1027,ACTIVE,Roberto Fraga,Holmes Homes Realty,145,2025-08-16T22:34:53.449313
+2072254,"$498,990","11277 S Lake Run Rd #127 South Jordan, UT",3,4,1822,ACTIVE,Alysha Johansen,"Weekley Homes, LLC",114,2025-08-16T22:34:54.502684
+2072190,"$455,000","4712 W South Jordan Pkwy South Jordan, UT",3,3,2024,ACTIVE,Justin Udy,Century 21 Everest,147,2025-08-16T22:34:55.556786
+2072026,"$466,525","11137 S Cheviot Hills Ln #277 South Jordan, UT",2,3,1326,ACTIVE,Roberto Fraga,Holmes Homes Realty,148,2025-08-16T22:34:56.616108
+2071949,"$935,000","2943 W Current Creek Dr South Jordan, UT",5,4,5078,ACTIVE,Tamara Zander,Zander Real Estate Team PLLC,121,2025-08-16T22:34:57.674946
+2071384,"$599,900","11709 S Grandville Ave South Jordan, UT",5,3,3460,ACTIVE,Ricardo Martinez,Masters Utah Real Estate,131,2025-08-16T22:34:58.739153
+2071158,"$1,149,000","3902 W Angus Dr South Jordan, UT",5,4,4296,ACTIVE,Kim Dixon,Berkshire Hathaway HomeServices Utah Properties (Salt Lake),151,2025-08-16T22:34:59.797383
+2070169,"$899,995","11381 S Watercourse Rd #205 South Jordan, UT",4,4,3348,ACTIVE,Isaac Hanson,S H Realty LC,156,2025-08-16T22:35:00.856373
+2070063,"$515,000","1596 W Cornerstone Way South Jordan, UT",4,3,2788,ACTIVE,Josh Johnson,Mansell Real Estate Inc (Utah County),156,2025-08-16T22:35:01.914495
+2069659,"$675,000","10749 S 2200 W South Jordan, UT",5,3,2174,ACTIVE,Brandi Davenport,Davenport Consulting PLLC,151,2025-08-16T22:35:02.974196
+2068143,"$880,000","11732 S Lampton View Dr South Jordan, UT",6,4,3973,ACTIVE,Nadine Kennick,Omada Real Estate,157,2025-08-16T22:35:04.038886
+2068090,"$625,000","4586 W Daybreak Rim Way #396 South Jordan, UT",3,4,2282,ACTIVE,Carolyn Bokovoy,"Utah Key Real Estate, LLC (Woodhaven Branch)",127,2025-08-16T22:35:05.106588
+2067673,"$860,000","3922 W Nipoma Dune Dr South Jordan, UT",6,6,4949,ACTIVE,Edwin Morillo,Realtypath LLC (South Valley),55,2025-08-16T22:35:06.167225
+2067397,"$649,999","10716 S Haven Fields Drive Dr South Jordan, UT",3,4,2246,ACTIVE,David Kruger,"Summit Realty, Inc.",169,2025-08-16T22:35:07.231532
+2067339,"$419,000","10611 S Oquirrh Lake Rd South Jordan, UT",3,4,2184,ACTIVE,Corie Lynn Leon,Equity Real Estate (Solid),169,2025-08-16T22:35:08.300043
+2067125,"$547,900","11716 S Grandville Ave South Jordan, UT",3,3,2213,ACTIVE,"Yellow Post Real Estate, LLC",,164,2025-08-16T22:35:09.360669
+2066092,"$600,000","10426 S Millerton Dr South Jordan, UT",4,4,2333,ACTIVE,Michael Rowe,Coldwell Banker Realty (Salt Lake-Sugar House),35,2025-08-16T22:35:10.406512
+2065897,"$624,990","11054 S Lake Run Rd South Jordan, UT",4,4,2769,ACTIVE,Caden Hyde,"Calibre Properties, LLC",77,2025-08-16T22:35:13.075958
+2065335,"$426,600","11587 S Prosperity Rd South Jordan, UT",3,3,1508,ACTIVE,Ibette Barraza,Utah's Wise Choice Real Estate,100,2025-08-16T22:35:14.139836
+2064625,"$825,000","11513 S Jackson Downs Way South Jordan, UT",6,4,3828,ACTIVE,Kristen Vance,"Real Broker, LLC (Salt Lake)",157,2025-08-16T22:35:15.204883
+2059549,"$404,900","6357 W South Jordan Pkwy South Jordan, UT",2,3,1516,ACTIVE,Kimberly Potts,Presidio Real Estate,211,2025-08-16T22:35:16.268945
+2059434,"$437,995","6671 W Skip Rock Rd South Jordan, UT",3,2,1410,ACTIVE,Lisa Radke,Selling Salt Lake,211,2025-08-16T22:35:17.332386
+2058876,"$769,900","6189 W Lake Ave South Jordan, UT",3,3,3560,ACTIVE,Alma Merrill,"LPT REALTY, LLC",72,2025-08-16T22:35:18.394664
+2058323,"$2,550,000","11666 S Gold Dust Dr South Jordan, UT",7,5,6306,ACTIVE,Bryan Colemere,Colemere Realty Associates LLC,215,2025-08-16T22:35:19.456390
+2030698,"$499,900","11061 S Gresham Dr South Jordan, UT",3,3,2028,ACTIVE,Steven Rindlisbacher,Hallmark Real Estate Company of Utah,254,2025-08-16T22:35:20.517665
+2023760,"$699,900","4424 W Skye Dr South Jordan, UT",3,4,2779,ACTIVE,Stuart Young,"SweetUtahHomes.com, LLC",225,2025-08-16T22:35:21.581384
+2022633,"$3,490,000","10431 S 1000 W South Jordan, UT",3,1,2324,ACTIVE,Dan Palmer,Equity Real Estate (Results),340,2025-08-16T22:35:22.644383
